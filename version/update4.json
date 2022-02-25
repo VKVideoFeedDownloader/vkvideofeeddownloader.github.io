@@ -1,9 +1,10 @@
 {
-    "versionName": "1.4",
+    "versionName": "1.6",
     "release": 
     [
-      
-    
+        "•File Size",
+        "•Link error Fix",
+        "•Android 12 fix",
         "•Bug fix"
       
     ]
